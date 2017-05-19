@@ -48,7 +48,7 @@ work_hard() {
 }
 
 rest() {
-  count_down "REST $i" $WORK_INTERVAL
+  count_down "REST $i" $REST_INTERVAL
 }
 
 bye() {
