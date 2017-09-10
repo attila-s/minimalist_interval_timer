@@ -43,6 +43,7 @@ startup() {
   banner "Get ready!!!!"
 }
 
+#TODO print out trainig type
 work_hard() {
   alert_start
   count_down "WORK $1" $WORK_INTERVAL
