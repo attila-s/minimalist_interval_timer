@@ -4,7 +4,7 @@ This is a minimalistic interval timer for persons who don't like to click.
 
 ## Example
 
-Here is a 6 mins workout 
+Here is a 6 mins workout: 
 
 ``./interval.sh 12 15 15``
 
