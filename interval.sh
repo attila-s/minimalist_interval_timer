@@ -38,7 +38,7 @@ count_down() {
 
 startup() {
   clear 
-  banner "Get ready"
+  banner "Get ready!!!!"
 }
 
 work_hard() {
