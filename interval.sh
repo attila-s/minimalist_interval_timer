@@ -4,7 +4,6 @@ NSETS=$1
 WORK_INTERVAL=$2
 REST_INTERVAL=$3
 
-
 #TODO check if all ogg files exist
 alert_start() {
     ogg123 -q /usr/share/sounds/ubuntu/stereo/phone-outgoing-calling.ogg &
