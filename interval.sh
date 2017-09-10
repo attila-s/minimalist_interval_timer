@@ -4,8 +4,10 @@ NSETS=$1
 WORK_INTERVAL=$2
 REST_INTERVAL=$3
 
+
 alert_start() {
-  ogg123 -q /usr/share/sounds/ubuntu/stereo/phone-outgoing-calling.ogg &
+#TODO check if exists
+    ogg123 -q /usr/share/sounds/ubuntu/stereo/phone-outgoing-calling.ogg &
 }
 
 alert_end() {
